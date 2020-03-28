@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://images.pexels.com/photos/289740/pexels-photo-289740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: 100%;
+}
+h1{
+
+    color: #ffc107;
+    margin-top: 5px;
+}
+#search-btn{
+    margin-top: 15px;
+    margin-left:100px;
+    text-emphasis: 2ex;
+    font-weight: bold;
+}
+.main-form{
+    background-color: rgb(52, 58, 64);
+    padding-top: 20px;
+    margin-right: 400px;
+    border-style: solid;
+    border-color:rgb(144, 146, 148);
+    margin-left:33%;
+    margin-top: 75px;
+    padding-bottom:50px;
+    border-radius: 2%;
+}
+.col-6{
+    max-width: 100%;
+}
