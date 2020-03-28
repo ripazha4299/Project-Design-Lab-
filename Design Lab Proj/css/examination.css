@@ -1,0 +1,44 @@
+.bg{
+    background-image: url("../images/bg1.jpeg");
+   
+}
+.nav_bar{
+    margin: auto;
+}
+ .back{
+     background-image: url("../images/back.jpg");
+ }
+ .table1{
+     margin-top: 100px;
+ }
+ .box{
+     background-image: url("../images/wood1.jpg");
+    
+ }
+ .foot{
+     word-spacing: 350px;
+     height: 60px;
+     text-align: center;
+    
+    background-image: url("../images/green.jpg");
+     margin-top: 130px;
+     padding-top: 20px;
+     max-width: 100%;
+   
+ }
+ .text{
+    color: darkgreen;
+    font-weight: bolder;
+    
+ }
+.question{
+    border: solid;
+    border-color: white;
+    height: 350px;
+    width: 800px;
+    background-color: ivory;
+    margin: auto;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-top: 70px;
+}
